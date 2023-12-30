@@ -235,11 +235,11 @@ ul a {
 
 }
 .logo{
-    background-image: url("./img/PngItem_12186.png");
+    background-image: url('./img/PngItem_12186.png');
     background-size: cover;
-    height: 50px;
-    width: 100px;
-    
+    background-position: center;
+    height: auto;
+    width: 100px; 
 
 }
 .foot-panel4{
