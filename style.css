@@ -135,7 +135,7 @@ span{
 }
 
 .hero-section{
-    background: url(../3000x1200_V5._CB571370645_.jpg);
+    background: url('./img/3000x1200_V5._CB571370645_.jpg');
     background-size: cover;
     height: 380px;
     display: flex;
